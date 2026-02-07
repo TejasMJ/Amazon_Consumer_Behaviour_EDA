@@ -1,6 +1,6 @@
 # Amazon Consumer Behaviour EDA 📦📊
 
-A comprehensive **Exploratory Data Analysis (EDA)** on Amazon consumer behaviour using Python, Pandas, Plotly, Seaborn, and Matplotlib to uncover insights across the customer journey—from browsing to purchase, satisfaction, and retention.
+A comprehensive **Exploratory Data Analysis (EDA)** on Amazon consumer behaviour using Python, Pandas, Plotly, Seaborn, and Matplotlib to uncover insights across the customer journey - from browsing to purchase, satisfaction, and retention.
 
 ---
 
@@ -34,7 +34,7 @@ A comprehensive **Exploratory Data Analysis (EDA)** on Amazon consumer behaviour
 
 ```text
 Amazon_Consumer_Behaviour_EDA/
-├── amazon_data.csv                 # Consumer behaviour dataset
+├── Amazon_Survey.csv               # Consumer behaviour dataset
 ├── Amazon_Consumer_Behaviour.ipynb # Jupyter Notebook with full EDA
 ├── requirements.txt                # Python dependencies
 └── venv/                           # Virtual environment
@@ -98,7 +98,7 @@ Understanding consumer behaviour helps e-commerce platforms optimize personaliza
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/TejasMJ/Amazon_Consumer_Behaviour_EDA.git
+git clone https://github.com/TejasMJ/Aamazon_Consumer_Behaviour_EDA.git
 cd Amazon_Consumer_Behaviour_EDA
 ```
 
@@ -113,7 +113,7 @@ python -m venv venv
 **Windows**
 
 ```bash
-.\\venv\\Scripts\\activate
+.\venv\Scripts\activate
 ```
 
 **Mac/Linux**
