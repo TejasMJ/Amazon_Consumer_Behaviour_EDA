@@ -78,6 +78,7 @@ Amazon_Consumer_Behaviour_EDA/
   * **Data Manipulation:** Pandas, NumPy
   * **Visualization:** Matplotlib, Seaborn, Plotly
 * **Environment:** Jupyter Notebook
+* - **Data Source:** [Kaggle – Google Play Store Apps](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset)
 
 ---
 
